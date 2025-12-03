@@ -17,9 +17,9 @@ public class uklNo2 {
 
             if (lembar > 0) {
                 if (money[b] >= 1000) {
-                    System.out.println(lembar + "Lembar" + money[b]);
+                    System.out.println(lembar + " Lembar " + money[b]);
                 } else {
-                    System.out.println(lembar + "koin" + money[b]);
+                    System.out.println(lembar + " koin " + money[b]);
                 }
 
             }
